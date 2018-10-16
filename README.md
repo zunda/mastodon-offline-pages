@@ -12,7 +12,7 @@ $ rm -f public/robots.txt
 Rename and edit to remove the fingerprints.
 
 ## LICENSE
-Following files are copied from [tootsuite/mastodon](https://github.com/tootsuite/mastodon) Copyright (C) 2016-2018 Eugen Rochko & other Mastodon contributor under the GNU Affero General Public License.
+Following files are copied from [tootsuite/mastodon](https://github.com/tootsuite/mastodon) with copyright (C) 2016-2018 Eugen Rochko & other Mastodon contributor under the GNU Affero General Public License.
 
 - public/500.html
 - public/oops.gif
@@ -55,3 +55,11 @@ Following files are copied from [tootsuite/mastodon](https://github.com/tootsuit
 - public/packs/robotomono-regular-webfont-6c1ce30b90ee993b22618ec489585594.woff2
 - public/packs/void-4c8270c17facce6d53726a2ebb9745f2.png
 - public/elephant_ui_working.svg
+
+Other files are Copyright (c) 2018 zunda.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
