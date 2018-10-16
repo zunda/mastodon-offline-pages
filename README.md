@@ -54,3 +54,4 @@ Following files are copied from [tootsuite/mastodon](https://github.com/tootsuit
 - public/packs/robotomono-regular-webfont-51e9ccf8c829f4894a7e5a0883e864fc.svg
 - public/packs/robotomono-regular-webfont-6c1ce30b90ee993b22618ec489585594.woff2
 - public/packs/void-4c8270c17facce6d53726a2ebb9745f2.png
+- public/elephant_ui_working.svg
